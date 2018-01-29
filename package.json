@@ -1,0 +1,9 @@
+{
+    "name": "html-parser",
+    "version": "0.0.1",
+    "author": {
+        "name": "Spencer Ye",
+        "email": "pallyoung@163.com"
+    },
+    "main": "src/parser.js"
+}
